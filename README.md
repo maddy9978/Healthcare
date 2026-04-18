@@ -314,7 +314,7 @@ data/healthcare_analytics.csv
 
 ## 8) Screenshots
 
-> 📁 Add your screenshots to `assets/screenshots/` and they will render here.
+> 📁 
 
 | Page | Preview |
 |---|---|
