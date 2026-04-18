@@ -318,10 +318,14 @@ data/healthcare_analytics.csv
 
 | Page | Preview |
 |---|---|
-| Executive Summary | ![Executive Summary](assets/screenshots/executive_summary.png) |
-| Churn & Retention | ![Churn](assets/screenshots/churn_retention.png) |
-| Profitability & RCM | ![Profitability](assets/screenshots/profitability_rcm.png) |
-| Drill-through Detail | ![Detail](assets/screenshots/detail_drillthrough.png) |
+| Executive Summary | ![Executive Summary](<img width="1368" height="738" alt="image" src="https://github.com/user-attachments/assets/a56f81a8-d7cb-4bd3-b0ec-8af033385bae" />
+ |
+| Churn & Retention | ![Churn](<img width="1352" height="702" alt="image" src="https://github.com/user-attachments/assets/a824ebf1-735a-4255-a680-368129e4a348" />
+ |
+| Profitability & RCM | ![Profitability](<img width="1349" height="734" alt="image" src="https://github.com/user-attachments/assets/425bfbae-3d25-406c-b2b6-358eef97676b" />
+ |
+| Drill-through Detail | ![Detail](<img width="1337" height="736" alt="image" src="https://github.com/user-attachments/assets/8ea2ccf5-3e9d-4ea0-942a-2ded87a88a92" />
+) |
 
 ---
 
@@ -352,7 +356,7 @@ data/healthcare_analytics.csv
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahadev%20Pandey-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-maddy9978-181717?logo=github&logoColor=white)](https://github.com/maddy9978)
-[![Email](https://img.shields.io/badge/Email-your--email%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-your--email%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:your-mohitpandey535@gmail.com)
 
 *If this project was helpful, consider giving it a ⭐ — it motivates continued open work!*
 
